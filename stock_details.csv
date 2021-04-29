@@ -1,0 +1,11 @@
+productID,name,category,stockAvailable,costPrice,sellingPrice
+P0001,Gigabyte Motherboard,Motherboard,90,15000,20000
+P0002,Intel i7 CPU,CPU,80,25000,35000
+P0003,AMD Ryzen CPU,CPU,100,20000,25000
+P0004,Nvidia RTX GPU,GPU,150,40000,65000
+P0005,Logitech Keyboard,Keyboard,200,500,1500
+P0006,Logitech Mouse,Mouse,150,400,1000
+P0007,Samsung Gaming Monitor,Monitor,50,40000,70000
+P0008,Power Supply,Power Supply,35,5000,10000
+P0009,NZXT Computer Case,Computer Case,60,5000,12000
+P0010,CPU Liquid Cooler,CPU Cooler,60,6000,12000

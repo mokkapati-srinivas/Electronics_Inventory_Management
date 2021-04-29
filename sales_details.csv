@@ -1,0 +1,11 @@
+productID,name,category,stocksSold,amountObtained,netProfit
+P0001,Gigabyte Motherboard,Motherboard,90,1800000,800000
+P0002,Intel i7 CPU,CPU,80,2800000,1800000
+P0003,AMD Ryzen CPU,CPU,100,2500000,1500000
+P0004,Nvidia RTX GPU,GPU,150,9750000,5750000
+P0005,Logitech Keyboard,Keyboard,200,300000,200000
+P0006,Logitech Mouse,Mouse,150,150000,100000
+P0007,Samsung Gaming Monitor,Monitor,50,2000000,1000000
+P0008,Power Supply,Power Supply,35,1500000,750000
+P0009,NZXT Computer Case,Computer Case,60,1000000,500000
+P0010,CPU Liquid Cooler,CPU Cooler,60,1000000,500000
